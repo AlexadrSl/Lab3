@@ -1,8 +1,0 @@
-D:\ДГТУ\3 курс\СИ шарп\CSharp\lab3f\lab3f\bin\Debug\lab3f.exe.config
-D:\ДГТУ\3 курс\СИ шарп\CSharp\lab3f\lab3f\bin\Debug\lab3f.exe
-D:\ДГТУ\3 курс\СИ шарп\CSharp\lab3f\lab3f\bin\Debug\lab3f.pdb
-D:\ДГТУ\3 курс\СИ шарп\CSharp\lab3f\lab3f\obj\Debug\lab3.csproj.AssemblyReference.cache
-D:\ДГТУ\3 курс\СИ шарп\CSharp\lab3f\lab3f\obj\Debug\lab3.csproj.SuggestedBindingRedirects.cache
-D:\ДГТУ\3 курс\СИ шарп\CSharp\lab3f\lab3f\obj\Debug\lab3.csproj.CoreCompileInputs.cache
-D:\ДГТУ\3 курс\СИ шарп\CSharp\lab3f\lab3f\obj\Debug\lab3f.exe
-D:\ДГТУ\3 курс\СИ шарп\CSharp\lab3f\lab3f\obj\Debug\lab3f.pdb
